@@ -34,7 +34,7 @@ Há também um arquivo `style-guide.md`, que contém as informações de que voc
 
 Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável.Abaixo está uma sugestão de processo, mas você não precisa seguir estas etapas:
 
-1. Inicialize seu projeto como um repositório público no [GitHub] (https://github.com/).Isso tornará mais fácil compartilhar seu código com a comunidade se você precisar de ajuda.Se você não tiver certeza de como fazer isso, [leia este recurso Try Git] (https://try.github.io/).
+1. Inicialize seu projeto como um repositório público no [GitHub] (https://github.com/).Isso tornará mais fácil compartilhar seu código com a comunidade se você precisar de ajuda. Se você não tiver certeza de como fazer isso, [leia este recurso Try Git] (https://try.github.io/).
 
 2. Configure seu repositório para publicar seu código em um URL.Isso também será útil se você precisar de ajuda durante um desafio, pois pode compartilhar a URL do seu projeto com a URL do repo.Existem várias maneiras de fazer isso, mas recomendamos usar [Vercel] (https://bit.ly/fem-vercel).Temos mais informações sobre como implantar seu projeto com Vercel abaixo.
 
