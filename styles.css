@@ -31,44 +31,78 @@ body {
 .page {
   width: 100vw;
   height: 100vh;
+  display: flex;
   overflow: hidden;
+  align-items: center;
+  justify-content: center;
 }
 
 .top-circle {
   position: fixed;
   left: -324px;
   top: -575px;
+  z-index: -1;
 }
 
 .bottom-circle {
   position: fixed;
   bottom: -635px;
   right: -260px;
+  z-index: -1;
 }
 
 .card {
-  width: 350px;
-  height: 500px;
-  border: 2px solid black;
+  width: 400px;
+  height: 450px;
   border-radius: 25px;
   overflow: hidden;
+  font-size: 16px;
+}
+
+.profileCover img {
+  width: 100%;
 }
 
 .body {
   background: white;
   display: flex;
   justify-content: center;
+  height: 200px;
   align-items: center;
   flex-direction: column;
 }
 
 .body img {
+  top: -25px;
+  position: relative;
   border-radius: 50%;
   border: 5px solid white;
 }
 
-.footer {}
+.username {
+  width: 250px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
 
-.stats {}
+.subtitle {
+  color: var(--dark-grey);
+  margin-top: 5px;
+  font-weight: 400;
+}
 
-/* font-size: 18px */
+.footer {
+  display: flex;
+  background: white;
+  border-top: 1px solid var(--dark-grey);
+  height: 110px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
