@@ -46,17 +46,21 @@ body {
 
 .bottom-circle {
   position: fixed;
-  bottom: -635px;
+  bottom: -680px;
   right: -260px;
   z-index: -1;
 }
 
 .card {
   width: 400px;
-  height: 450px;
+  height: 420px;
   border-radius: 25px;
   overflow: hidden;
-  font-size: 16px;
+  font-size: 0.8rem;
+}
+
+.profileCover {
+  height: 150px;
 }
 
 .profileCover img {
@@ -64,31 +68,33 @@ body {
 }
 
 .body {
-  background: white;
   display: flex;
-  justify-content: center;
-  height: 200px;
+  height: 160px;
+  position: relative;
+  background: white;
   align-items: center;
   flex-direction: column;
+  justify-content: center;
 }
 
 .body img {
-  top: -25px;
-  position: relative;
+  top: -55px;
+  position: absolute;
   border-radius: 50%;
   border: 5px solid white;
 }
 
 .username {
-  width: 250px;
+  width: 190px;
   display: flex;
+  margin-top: 40px;
   align-items: baseline;
   justify-content: space-between;
 }
 
 .subtitle {
   color: var(--dark-grey);
-  margin-top: 5px;
+  margin-top: 10px;
   font-weight: 400;
 }
 
