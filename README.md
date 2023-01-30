@@ -1,75 +1,84 @@
-# Frontend Mentor - componente de cartão de perfil
+# Profile Card Component Challenge
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=frontend&message=mentor&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/MrRioja/profileCard?color=blueviolet&logo=License&style=for-the-badge"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/profileCard?color=blueviolet&logo=css3&logoColor=white&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/profileCard?color=blueviolet&style=for-the-badge">
+</p>
 
-## Bem-vindo! 👋
+<p align="center">
+  <a href="#sobre">Sobre</a> •
+  <a href="#profile-card-component">Profile Card Component</a> •
+  <a href="#instalação">Instalação</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#autor">Autor</a>  
+</p>
 
-Obrigado por verificar este desafio de codificação de front-end.
+## Sobre
 
-[mentorFrontEnd](https://www.frontendmentor.io) desafios permitem que você aprimore suas habilidades em um fluxo de trabalho da vida real.
+Projeto desenvolvido para solucionar [esse desafio](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) do Frontend Mentor.
 
-**Para fazer este desafio, você precisa de um conhecimento básico de HTML e CSS. **
+## Profile Card Component
 
-## O desafio
+Desafio do Frontend Mentor desenvolvido com o objetivo de praticar o desenvolvimento de landing pages utilizando HTML e CSS.
 
-Seu desafio é construir esse componente de cartão de perfil e torná-lo o mais parecido possível com o design.
+A página é bem simples e não possui nenhuma funcionalidade pois a ideia é implementar o layout proposto.
+Deixo abaixo um preview do projeto:
 
-Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio.Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
+![Price grid preview](design/desktop-preview.jpg)
 
-Quer algum apoio no desafio? [Join our Slack community](https://www.frontendmentor.io/slack) e faça perguntas no canal ** # help **.
+## Instalação
 
-## Onde encontrar tudo
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com).
+Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-Sua tarefa é construir o projeto para os designs dentro da pasta `/ design`.Você encontrará uma versão móvel e uma versão desktop do design para trabalhar.
+### 🖥️ Rodando o Front End (Web)
 
-Os designs estão no formato estático JPG.Isso significa que você precisará usar seu melhor julgamento para estilos como `font-size`,` padding` e `margin`.Isso deve ajudar a treinar seu olho para perceber diferenças em espaçamentos e tamanhos.
+```bash
+# Clone este repositório
+$ git clone git@github.com:MrRioja/profileCard.git
 
-Se desejar o arquivo Sketch para inspecionar o design com mais detalhes, você pode [inscrever-se como um membro PRO] (https://www.front//or.io/pro).
+# Acesse a pasta do projeto no terminal/cmd
+$ cd profileCard
 
-Você encontrará todos os recursos necessários na pasta `/ images`.Os ativos já estão otimizados.
+# Agora basta abrir o arquivo index.html em algum navegador de sua preferência
+```
 
-Há também um arquivo `style-guide.md`, que contém as informações de que você precisa, como paleta de cores e fontes.
+## Tecnologias
 
-## Construindo seu projeto
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="HTML5 e CSS3 logo" height="150" />
 
-Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável.Abaixo está uma sugestão de processo, mas você não precisa seguir estas etapas:
+## Autor
 
-1. Inicialize seu projeto como um repositório público no [GitHub] (https://github.com/).Isso tornará mais fácil compartilhar seu código com a comunidade se você precisar de ajuda. Se você não tiver certeza de como fazer isso, [leia este recurso Try Git] (https://try.github.io/).
+<div align="center">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55336456?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
+<h1>Luiz Rioja</h1>
+<strong>Backend Developer</strong>
+<br/>
+<br/>
 
-2. Configure seu repositório para publicar seu código em um URL.Isso também será útil se você precisar de ajuda durante um desafio, pois pode compartilhar a URL do seu projeto com a URL do repo.Existem várias maneiras de fazer isso, mas recomendamos usar [Vercel] (https://bit.ly/fem-vercel).Temos mais informações sobre como implantar seu projeto com Vercel abaixo.
+<a href="https://linkedin.com/in/luizrioja" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-3. Examine os designs para começar a planejar como você lidará com o projeto.Esta etapa é crucial para ajudá-lo a pensar no futuro para as classes CSS que você poderia criar para criar estilos reutilizáveis.
+<a href="https://github.com/mrrioja" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-4. Antes de adicionar qualquer estilo, estruture seu conteúdo com HTML.Escrever seu HTML primeiro pode ajudar a concentrar sua atenção na criação de conteúdo bem estruturado.
+<a href="mailto:lulyrioja@gmail.com?subject=Fala%20Dev" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-5. Escreva os estilos básicos para o seu projeto, incluindo estilos de conteúdo geral, como `font-family` e` font-size`.
+<a href="https://api.whatsapp.com/send?phone=5511933572652" target="_blank">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-6. Comece adicionando estilos ao topo da página e vá descendo.Passe para a próxima seção apenas quando estiver satisfeito por ter concluído a área em que está trabalhando.
+<a href="https://join.skype.com/invite/tvBbOq03j5Uu" target="_blank">
+<img alt="Skype" src="https://img.shields.io/badge/SKYPE-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
+</a>
 
-## Implantando seu projeto
-
-Conforme mencionado acima, existem várias maneiras de hospedar seu projeto gratuitamente.Recomendamos o uso do [Vercel] (https://bit.ly/fem-vercel), pois é um serviço incrível e extremamente simples de configurar.Se você gostaria de usar o Vercel, aqui estão algumas etapas a seguir para começar:
-
-1. [Inscreva-se no Vercel] (https://bit.ly/fem-vercel-signup) e siga o fluxo de integração, garantindo que sua conta GitHub esteja conectada usando o [Vercel para GitHub] (https: // vercelintegração .com / docs / v2 / git-integrations / vercel-for-github).
-
-2. Conecte seu projeto ao Vercel a partir da [página "Importar projeto"] (https://vercel.com/import), usando o botão "Do repositório Git" e selecionando o projeto que deseja implantar.
-
-3. Uma vez conectado, toda vez que você `git push`, Vercel criará uma nova [implantação] (https://vercel.com/docs/v2/platform/deployments) e a URL de implantação será exibida em seu [Painel](https://vercel.com/dashboard).Você também receberá um e-mail para cada implantação com o URL.
-
-## Compartilhando sua solução
-
-Existem vários lugares onde você pode compartilhar sua solução:
-
-1. Envie-o na plataforma para que outros usuários vejam sua solução no site.Aqui está nosso ["Guia completo para enviar soluções"] (https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para ajudá-lo a fazer isso.
-
-2. Compartilhe sua página de solução no canal ** # completed-projects ** da [comunidade do Slack] (https://www.front|or.io/slack).
-
-3. Faça um tweet em [@frontchoolsor] (https://twitter.com/frontpiteor) e mencione ** @ frontpostor ** incluindo o repo e os URLs ativos no tweet.Adoraríamos dar uma olhada no que você construiu e ajudar a compartilhá-lo.
-
-## Dando feedback
-
-Comentários são sempre bem-vindos, então se você tiver algum a dar sobre este desafio, envie um e-mail hi@frontpostor.io.
-
-Este desafio é totalmente gratuito.Compartilhe-o com qualquer pessoa que o considere útil para a prática.
-
-** Divirta-se construindo! ** 🚀
+<br/>
+<br/>
+</div>
